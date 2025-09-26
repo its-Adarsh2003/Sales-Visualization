@@ -15,8 +15,3 @@ It includes line charts, bar charts, and pie charts for easy understanding of tr
 - Bar chart for **Monthly Sales**  
 - Pie chart showing **Sales Distribution**  
 
-## 🚀 How to Run
-1. Clone the repository or download files.  
-2. Install dependencies: `pip install pandas matplotlib seaborn`  
-3. Run the script: `python visualization.py`  
-4. Charts will be saved in the `images/` folder.  
