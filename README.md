@@ -15,7 +15,7 @@ It includes line charts, bar charts, and pie charts for easy understanding of tr
 - Bar chart for **Monthly Sales**  
 - Pie chart showing **Sales Distribution**  
 
-# Line Chart
+# Line Chart 
 ![Line Chart](images/line_chart.png)
 
 # Pie Chart
